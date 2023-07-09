@@ -42,7 +42,7 @@ favicon: "/img/quark.ico"
 black-favicon: "/img/quark.ico"
 logo: "/img/quark.ico" # leave blank if you don't want a logo
 
-background-img: "../img/background.jpeg"
+background-img: "../img/background.png"
 
 ##############################
 # Dynamic Text on the Header #
