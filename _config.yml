@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Why is the Universe Dark?"
   - text: "What is the matter?"
 
-me-img: "/img/me.png"
+me-img: "/img/author.JPG"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
