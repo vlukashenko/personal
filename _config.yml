@@ -168,8 +168,6 @@ author_blurb_image: "/img/author.JPG"
 ##################
 
 social:
-  - title: "gitlab"
-    url: "https://gitlab.cern.ch/valukash"
   - title: "linkedin"
     url: "https://linkedin.com/in/valeriia-lukashenko-5b9a1a167"
 
@@ -184,8 +182,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
