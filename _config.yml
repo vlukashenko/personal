@@ -40,7 +40,7 @@ favicon: "/img/quark.ico"
 ################
 
 black-favicon: "/img/quark.ico"
-logo: "" # leave blank if you don't want a logo
+logo: "/img/quark.ico" # leave blank if you don't want a logo
 
 background-img: "../img/background.jpeg"
 
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Why is the Universe Dark?"
   - text: "What is the matter?"
 
-me-img: "/img/author.jpg"
+me-img: "/img/author.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -161,7 +161,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "I am from Kyiv. I have a lot of fun working on fundamental physics questions every day. I currently live in Amsterdam."
-author_blurb_image: "/img/author.jpg"
+author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
