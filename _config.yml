@@ -33,14 +33,14 @@ author: "Valeriia Lukashenko"
 title: "Valeriia (Lera) Lukashenko personal page"
 description: "A personal website of Valeriia Lukashenko"
 keywords: "personal, jekyll, theme"
-favicon: "/img/quark.ico"
+favicon: ""
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/quark.ico"
-logo: "/img/quark.ico" # leave blank if you don't want a logo
+black-favicon: ""
+logo: "" # leave blank if you don't want a logo
 
 background-img: "/img/background2.png"
 
