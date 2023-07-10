@@ -132,21 +132,21 @@ icon-192p: "/img/web-app/icon-192p.png"
 # CV #
 ############
 
-events: 
-  - image: ""
+schools: 
+  - image: "/img/cv/nikhef_logo.png"
     date: "2019 - present"
     description: "PhD, Nikhef/Vrije Universiteit Amsterdam"
-  - image: ""
+  - image: "/img/cv/uva_logo.png"
     date: "2017-2019"
     description: "MSc. Physics and Astronomy, University of Amsterdam/Vrije Universiteit Amsterdam (joint degree)"
-  - image: ""
+  - image: "/img/cv/knu_logo.png"
     date: "2013-2017"
     description: "BSc. Applied Physics, Taras Shevchenko National University of Kyiv"
 
 
 # First image of the Timeline
 
-#timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/cv/nikhef_logo.png"
 
 ###########
 # Contact #
