@@ -147,7 +147,27 @@ research:
   - image: "/img/lhcb_logo.png"
     date: "2021 - present"
     description: "Search for exotic neutrinos in lepton flavour violating B-meson decays"
-  
+  - image: "/img/lhcb_logo.png"
+    date: "2022"
+    description: "Commissioning of LHCb pixel vertex locator" 
+  - image: "/img/lhcb_logo.png"
+    date: "2020 - 2023"
+    description: "Measurement of CP-violating phase $\phi_s$"
+  - image: "/img/lhcb_logo.png"
+    date: "2020 - 2021"
+    description: "Comparison of track reconstruction in the GPU and CPU-based triggers at LHCb"
+  - image: "/img/lhcb_logo.png"
+    date: "2019 - 2020"
+    description: "Development of reconstruction monitoring algoritms"
+  - image: "/img/lhcb_logo.png"
+    date: "2018 - 2019"
+    description: "Search for long-lived heavy neutrinos in $W^{+} \rightarrow \mu^{+} \mu^{\pm} jet$ decays"
+  - image: "/img/lhcb_logo.png"
+    date: "2018"
+    description: "Cern Summer Student project on LHCb Ring Image Cherenkov Detector FE ASIC calibration and multi-anode PMT characterisation"
+  - image: "/img/lhcb_logo.png"
+    date: "2017"
+    description: "$\Lambda_b^0$ differential production cross-section in pPb collisions at $\sqrt{s}=5$~TeV at LHCb" 
 
 
 # First image of the Timeline
