@@ -129,16 +129,20 @@ icon-192p: "/img/web-app/icon-192p.png"
 #syntax-highlight: True
 
 ############
-# Timeline #
+# CV #
 ############
 
-#events:
-#  - image: ""
-#    date: ""
-#    description: ""
-#  - image: ""
-#    date: ""
-#    description: ""
+events: 
+  - image: ""
+    date: "2019 - present"
+    description: "PhD, Nikhef/Vrije Universiteit Amsterdam"
+  - image: ""
+    date: "2017-2019"
+    description: "MSc. Physics and Astronomy, University of Amsterdam/Vrije Universiteit Amsterdam (joint degree)"
+  - image: ""
+    date: "2013-2017"
+    description: "BSc. Applied Physics, Taras Shevchenko National University of Kyiv"
+
 
 # First image of the Timeline
 
